@@ -9,3 +9,7 @@
   * Install opencv
   * Install imutils
   * Install dlib
+
+## Sample Output
+
+<img src="images/test.png">
